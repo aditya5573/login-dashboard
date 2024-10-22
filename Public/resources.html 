@@ -20,6 +20,11 @@
                 window.location.href = "login.html";
             }
         });
+        if (!user) {
+            // If not logged in, redirect to login page
+            window.location.href = "login.html";
+        }
+        });
     </script>
 </body>
 </html>
