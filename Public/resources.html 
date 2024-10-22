@@ -10,7 +10,7 @@
     <p>Here you can access all the resources after logging in!</p>
     
     <!-- Example resource link -->
-    <a href="https://github.com/username/repo-name" target="_blank">Go to GitHub Repo</a>
+    <a href="https://github.com/aditya5573/aditya5573" target="_blank">Go to GitHub Repo</a>
 
     <script>
         // Check if the user is authenticated
