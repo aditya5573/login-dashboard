@@ -12,7 +12,7 @@ const LoginSignup = () => {
         // Simulate signup/login
         if (username && password) {
             // Redirect to the specified URL after "successful" signup
-            window.location.href = 'https://aditya5573.github.io/aditya5573/';
+            window.location.href = 'https://aditya5573.github.io/login-dashboard/';
         } else {
             setMessage('Please fill in all fields.');
         }
